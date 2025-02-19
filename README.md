@@ -32,3 +32,7 @@ javascript:var js = document.createElement('script');js.src = 'https://cdn.jsdel
 This sounds *WAY* more complicated than it really is.
 Just watch the [video](https://www.youtube.com/watch?v=c54Zx0Dx_A4)
 , and if you get lost please feel free to contact me.
+
+
+## brighthorizons.com users
+use fork : https://github.com/vanderjs/tadpoles-media-downloader
